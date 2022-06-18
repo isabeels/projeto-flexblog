@@ -1,0 +1,35 @@
+/*resetando os estilos padroes*/
+
+body,
+h1,
+h2,
+p,
+a,
+ul,
+li {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  font-family: "Nunito", Arial, Helvetica, sans-serif;
+  color: #222222;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+/*a border-box respeita o width definido no site*/
+* {
+  box-sizing: border-box;
+}
