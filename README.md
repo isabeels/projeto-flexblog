@@ -1,7 +1,7 @@
 <h1>Praticando CSS Flexbox</h1>
 
 ### Sobre
-Este é um projeto do curso de Flexbox da Origamid que tem o objetivo de praticar CSS e Flexbox.
+Este é um projeto do curso de Flexbox da Origamid. O site desenvolvido explora as propriedades do Flex Container e Flex Items.
 
 <h3> 🛠 Tecnologias </h3>
 
